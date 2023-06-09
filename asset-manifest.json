@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/data-vinci/static/css/main.cabad668.css",
+    "main.js": "/data-vinci/static/js/main.a7622914.js",
+    "static/js/787.6f7bb604.chunk.js": "/data-vinci/static/js/787.6f7bb604.chunk.js",
+    "index.html": "/data-vinci/index.html",
+    "main.cabad668.css.map": "/data-vinci/static/css/main.cabad668.css.map",
+    "main.a7622914.js.map": "/data-vinci/static/js/main.a7622914.js.map",
+    "787.6f7bb604.chunk.js.map": "/data-vinci/static/js/787.6f7bb604.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cabad668.css",
+    "static/js/main.a7622914.js"
+  ]
+}
